@@ -50,6 +50,7 @@ while True:
 
     elif op==4:
         print("")
+        print("G E N E R A R  A R C H I V O")
     elif op==5:
         print("")
     elif op==6:
